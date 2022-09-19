@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mecor",
+    "oncran": true
+  }
+]

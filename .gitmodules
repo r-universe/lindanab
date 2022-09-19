@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mecor"]
+	path = mecor
+	url = https://github.com/lindanab/mecor
+	shallow = true
+	registered = true
